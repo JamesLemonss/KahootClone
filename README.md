@@ -4,11 +4,11 @@ A real-time multiplayer quiz application inspired by Kahoot, built with Go (Fibe
 
 ## Features
 
-- 🎮 Host interactive quizzes with multiple-choice questions
-- 👥 Real-time multiplayer support via WebSockets
-- ⏱️ Timed questions with customizable durations
-- 📊 Live leaderboards and score tracking
-- 🎨 Clean, responsive UI built with Svelte and TailwindCSS
+-  Host interactive quizzes with multiple-choice questions
+- Real-time multiplayer support via WebSockets
+-  Timed questions with customizable durations
+-  Live leaderboards and score tracking
+-  Clean, responsive UI built with Svelte and TailwindCSS
 
 ## Tech Stack
 
